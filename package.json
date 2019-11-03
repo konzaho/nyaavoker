@@ -1,0 +1,19 @@
+{
+  "name": "nyaavoker",
+  "version": "1.0.0",
+  "description": "Download and schedule Nyaa torrent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fiqih Rhamdani",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
