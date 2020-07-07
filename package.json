@@ -9,7 +9,7 @@
   "author": "Fiqih Rhamdani",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.0.1"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
